@@ -49,7 +49,7 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
 @import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
 :root {
   --Update-Text: " Thank you for downloading";
-  --File-Updated-2020-5-24: url(https://imgur.com/a/VIdIL5k);
+  --File-Updated-2020-5-24: url(https://i.imgur.com/F8yom1h.png);
   --Settings-Dock-Colour: var(--Main-Colour);
   --BetterDocsBlockerWhite: var(--Main-Colour);
   --BetterDocsBlockerBlack1: var(--Background-Colour);
@@ -823,7 +823,7 @@ html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt >
 }
 
 html:only-child > head + body > div#app-mount.appMount-3lHmkl > div.app-19_DXt > div.app-2rEoOp.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr > div.layers-3iHuyZ.vertical-V37hAW.flex-1O1GKY.directionColumn-35P_nr.spacer-1fA9zc > div.layer-3QrUeG + div.layer-3QrUeG > div > div.standardSidebarView-3F1I7i > div.sidebarRegion-VFTUkN > div.scrollerWrap-2lJEkd.scrollerThemed-2oenus.themeGhostHairline-DBD-2d.scrollerFade-1Ijw5y > div.scroller-2FKFPG.sidebarRegionScroller-3MXcoP > div.sidebar-CFHs9e > div.side-8zPYf6 > span#bd-settings-sidebar:before {
-	content: "NFLD99" !important;
+	content: "Anime" !important;
 	font-size: 12px !important; 
 	font-weight: 600 !important; 
 	color: var(--Main-Colour) !important; 
@@ -8068,7 +8068,7 @@ color: var(--Secondary-Main-Colour);
 }
 
 .info-1VyQPT > .colorMuted-HdFt4q.size12-3cLvbJ:first-of-type:before {
-  content: var(--Theme-Variant) ", "var(--Update-Text)" by NFLD99 \a" !important;
+  content: var(--Theme-Variant) ", "var(--Update-Text)" by AnimeshnikKen \a" !important;
 }
 
 .theme-dark .bd-addon-list .bd-addon-card:hover,
